@@ -18,10 +18,10 @@ Automated sleep data cleanup and processing to harmonize Fitbit data obtained vi
 + Show a weekly summary with a drop-down to select the study participant and the week
 
 
-![Sleep Data Automation Output Screenshot](https://github.com/DepressionCenter/MDEN/blob/1ba004e1297de82580cc98ec4852cec86e161ce1/SleepDataAutomation/SleepDataAutomation-Screenshot.png "Sleep Data Automation Output Example")
+![Sleep Data Automation Output Screenshot](https://github.com/DepressionCenter/SleepDataAutomation/blob/main/images/SleepDataAutomation-Screenshot.png?raw=true "Sleep Data Automation Output Example")
 
 
-![Sleep Data Automation Weekly Summary Screenshot](https://github.com/DepressionCenter/MDEN/blob/36693a1ad17f6e23ed9c0acc021958483dd025a2/SleepDataAutomation/SleepDataAutomation-WeeklySummary-Screenshot.png "Sleep Data Automation Weekly Summary Example")
+![Sleep Data Automation Weekly Summary Screenshot](https://github.com/DepressionCenter/SleepDataAutomation/blob/main/images/SleepDataAutomation-WeeklySummary-Screenshot.png?raw=true "Sleep Data Automation Weekly Summary Example")
 
 
 
