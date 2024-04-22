@@ -77,13 +77,13 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 ## Credits
 #### Contributors:
-+ Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/)
-  + [Dr. Cathy Goldstein, M.D., M.S.](https://depressioncenter.org/become-member/our-members/cathygo)
-  + Gabriel Mongefranco [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
-+ [Sleep and Circadian Research Laboratory](https://medicine.umich.edu/dept/psychiatry/programs/sleep/sleep-circadian-research-laboratory)
-  + [Dr. Helen J. Burgess, Ph.D.](https://medicine.umich.edu/dept/psychiatry/helen-burgess-phd)
-  + [Moony Rizvydeen](https://www.linkedin.com/in/muneer-rizvydeen-b3b26254?original_referer=https%3A%2F%2Fdepressioncenter.org)
-  + [Zainab Fayyaz](https://mcommunity.umich.edu/person/fzainab) 
+##### Eisenberg Family Depression Center [(@DepressionCenter)](https://github.com/DepressionCenter/):
++ [Dr. Cathy Goldstein, M.D., M.S.](https://depressioncenter.org/become-member/our-members/cathygo)
++ [Gabriel Mongefranco](https://gabriel.mongefranco.com/) [(@gabrielmongefranco)](https://github.com/gabrielmongefranco)
+##### [Sleep and Circadian Research Laboratory](https://medicine.umich.edu/dept/psychiatry/programs/sleep/sleep-circadian-research-laboratory):
++ [Dr. Helen J. Burgess, Ph.D.](https://medicine.umich.edu/dept/psychiatry/helen-burgess-phd)
++ [Moony Rizvydeen](https://www.linkedin.com/in/muneer-rizvydeen-b3b26254?original_referer=https%3A%2F%2Fdepressioncenter.org)
++ [Zainab Fayyaz](https://mcommunity.umich.edu/person/fzainab) 
 
 
 
