@@ -116,7 +116,10 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 
 
 ## Citation
-If you find this repository, code or paper useful for your research, please cite it.
+If you find this repository, code or paper useful for your research, please cite it.  
+
+>_Mongefranco, Gabriel; Rizvydeen, Moony; Fayyaz, Zainab; Burgess, Helen; Goldstein, Cathy (2024). Sleep Data Automation. University of Michigan. Software. https://michmed.org/sleepdata_  
+​​​​​​​    >_DOI: 10.6084/m9.figshare.25669173.v1_
 
 
 
