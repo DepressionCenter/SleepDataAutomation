@@ -1,6 +1,6 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# Sleep Data Automation
+# Sleep Data Automation™
 
 ## Description
 Automated sleep data cleanup and processing to harmonize Fitbit data obtained via Fitabase with self-reported sleep diary entries sent via SMS-to-Email. This project uses Microsoft Power Automate for processing sleep diary entries in a shared mailbox, and Excel / Power Query for loading and cleaning sleep stages and HRV data.
@@ -94,7 +94,8 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 ## License
 ### Copyright Notice
-Copyright © 2024 The Regents of the University of Michigan
+Sleep Data Automation™ is a trademark of the The Regents of the University of Michigan.
+Copyright © 2024-2026 The Regents of the University of Michigan.
 
 
 ### Software and Library License
@@ -118,11 +119,11 @@ Free Documentation License". If not, see <https://www.gnu.org/licenses/fdl-1.3-s
 ## Citation
 If you find this repository, code or paper useful for your research, please cite it.  
 
->_Mongefranco, Gabriel; Rizvydeen, Moony; Fayyaz, Zainab; Burgess, Helen; Goldstein, Cathy (2024). Sleep Data Automation. University of Michigan. Software. https://michmed.org/sleepdata_  
+>_Mongefranco, Gabriel; Rizvydeen, Moony; Fayyaz, Zainab; Burgess, Helen; Goldstein, Cathy (2024). Sleep Data Automation™. University of Michigan. Software. https://michmed.org/sleepdata_  
 ​​​​​​​    >_DOI: 10.6084/m9.figshare.25669173.v1_
 
 
 
 ----
 
-Copyright © 2024 The Regents of the University of Michigan
+Copyright © 2024-2026 The Regents of the University of Michigan
